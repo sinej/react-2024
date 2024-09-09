@@ -1,9 +1,11 @@
+import Header from "./components/header/index.js";
+
 function App() {
 
   return (
     <div>
       <div>
-        <header></header>
+        <Header/>
         <nav></nav>
         <footer></footer>
       </div>
