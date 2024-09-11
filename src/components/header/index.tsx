@@ -1,9 +1,14 @@
+import Nav from "./nav";
 
 const Header = () => {
   return (
-    <div>
+    <header>
+      <div>
+        <h1>Logo</h1>
+        <Nav />
+      </div>
 
-    </div>
+    </header>
   );
 };
 
