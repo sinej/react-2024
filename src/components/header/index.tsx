@@ -1,4 +1,5 @@
 import Nav from "./nav";
+import Gnb from "./gnb";
 
 const Header = () => {
   return (
@@ -7,6 +8,7 @@ const Header = () => {
         <h1>Logo</h1>
         <Nav />
       </div>
+      <Gnb />
 
     </header>
   );
