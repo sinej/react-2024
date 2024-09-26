@@ -2,9 +2,30 @@ import React from 'react';
 
 const Gnb = () => {
   return (
-    <div className="text-white">
-      
-    </div>
+    <nav>
+      <ul>
+        <li>
+          <a href="/">
+            HOME
+          </a>
+        </li>
+        <li>
+          <a href="/">
+            HOME
+          </a>
+        </li>
+        <li>
+          <a href="/">
+            HOME
+          </a>
+        </li>
+        <li>
+          <a href="/">
+            HOME
+          </a>
+        </li>
+      </ul>
+    </nav>
   );
 };
 
