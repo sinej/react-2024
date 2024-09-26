@@ -2,7 +2,7 @@ import React from 'react';
 
 const Gnb = () => {
   return (
-    <div>
+    <div className="text-white">
       
     </div>
   );
