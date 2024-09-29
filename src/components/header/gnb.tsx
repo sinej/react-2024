@@ -11,12 +11,12 @@ const Gnb = () => {
         </li>
         <li>
           <a href="/">
-            HOME
+            Group
           </a>
         </li>
         <li>
           <a href="/">
-            HOME
+            Study
           </a>
         </li>
         <li>
